@@ -3,6 +3,9 @@ LOGICA DE PROGRAMACION SEMANA 8
 NOMBRE DEL PROYECTO:
 Juego interactivo de Piedra, papel y tijeras
 
+INTEGRANTES:
+Diego Vallejo
+
 OBJETIVO DEL SISTEMA: 
 Desarrollar un programa que permita al usuario jugar una partida de Piedra, Papel o Tijera contra la computadora, aplicando estructuras básicas de programación como variables, condicionales, ciclos y generación de números aleatorios.
 
